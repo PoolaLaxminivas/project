@@ -1,0 +1,2 @@
+set GOOGLE_API_KEY="AIzaSyAW1suc39g0XJEx1hvr4wMJpkQEbg8cBBw"
+$env:GOOGLE_API_KEY = "AIzaSyAW1suc39g0XJEx1hvr4wMJpkQEbg8cBBw"
